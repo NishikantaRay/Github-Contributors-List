@@ -12,8 +12,8 @@ const getData = async () => {
                                 <img src="${element.avatar_url}" alt="" id="imgbg" >
                                 <div class="mt-3">
                                 <h4>${element.login}</h4>
-                                <p>Total Commit-${element.contributions}</>
-                                <a href="${element.html_url}">Github</a>
+                                <p class="commit">Total Commits-${element.contributions}</>
+                                <a class="link" href="${element.html_url}">GitHub</a>
                                 </div>
                             </div>`
             let row = document.getElementById("rowdy");
