@@ -23,6 +23,8 @@ Deploy to [Netlify](https://netlify.com)
 This project is used :
 
 - ASCI-2021 / Switch Club
+- Coding club
+- Opentek
 
   
 ## Authors
